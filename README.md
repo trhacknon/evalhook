@@ -6,7 +6,7 @@ Stefan Esser
 
 ```
 sudo apt-get install php5-dev build-essential git
-git clone https://github.com/unreturned/evalhook
+git clone https://github.com/trhacknon/evalhook
 cd evalhook
 phpize
 ./configure
